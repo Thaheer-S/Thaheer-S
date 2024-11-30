@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**Thaheer-S/Thaheer-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Thaheer, glad to have you here!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm an enthusiastic Computer Science student with a passion for **Data Science**  and **Web Development**.
+
+## 🌟 About Me:
+- 🎓 **Computer Science Student** with a keen interest in building intelligent, scalable solutions.
+- 💡 Passionate about leveraging **Machine Learning** and **AI** to solve real-world problems.
+- 💻 Currently focused on **Web Development** and **Data Science** projects.
+- 🌍 Aiming to create sustainable, impactful technology that can shape the future.
+
+## 🔧 Technologies & Tools:
+- **Languages**: Python, JavaScript, C++, Html/css
+- **Tools**: Git, GitHub, VSCode, Jupyter, Wordpress
+- **Databases**: MySQL, MongoDB, XAMMP
+- **Data Science** :  Pandas, NumPy, Matplotlib
+
+## 📚 Current Projects:
+- AI-driven solutions for data analysis and prediction.
+- Web applications focused on improving user experience and functionality.
+- Exploring smart solutions in **Energy Consumption Prediction** and more.
+
+## 📫 Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/thaheer-s" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Thaheer-S" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/thaheeroffl/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+## 🚀 Goals:
+- To specialize in **Data Science** and **AI**.
+- To build my own tech venture focused on creating impactful, sustainable solutions.
