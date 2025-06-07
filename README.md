@@ -10,11 +10,12 @@ Welcome to my GitHub profile! I'm an enthusiastic Computer Science student with 
 - 💻 Currently focused on **Web Development** and **Data Science** projects.
 - 🌍 Aiming to create sustainable, impactful technology that can shape the future.
 
-## 🔧 Technologies & Tools:
-- **Languages**: Python, JavaScript, C++, Html/css
-- **Tools**: Git, GitHub, VSCode, Jupyter, Wordpress
-- **Databases**: MySQL, MongoDB, XAMMP
-- **Data Science** :  Pandas, NumPy, Matplotlib
+## 🔧 Technologies & Tools  
+- **Languages**: Python (OOPs, NumPy, Pandas, Matplotlib, Seaborn), HTML/CSS  
+- **Data Tools**: Power BI (DAX, Dashboards), MS Excel (Pivot Tables, Visualization)  
+- **Databases**: SQLite3, Oracle SQL (Joins, Functions, DCL, DQL, DML, DDL)  
+- **Frameworks**: Flask  
+- **Tools**: GitHub, VSCode  
 
 ## 📚 Current Projects:
 - AI-driven solutions for data analysis and prediction.
